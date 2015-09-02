@@ -1,0 +1,36 @@
+{
+  "name": "shapefly-plugin",
+  "version": "0.1.0",
+  "authors": [
+    "zzzhan <chunzhan.he@gmail.com>"
+  ],
+  "description": "Shapefly plugin for inserting ready-make shapes on your web, such as rectangles and circles, arrows,, lines, flowchart symbols, and callouts.",
+  "main": [
+    "dist/shapefly-plugin.min.js",
+    "dist/shapefly-plugin.min.html",	
+  ],
+  "keywords": [
+    "flowchart",
+    "diagram",
+    "shapes",
+    "rectangles",
+    "circles",
+    "arrows",
+    "lines",
+    "callouts"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zzzhan/shapefly-plugin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+  }
+}
