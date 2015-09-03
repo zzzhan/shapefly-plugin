@@ -7,7 +7,7 @@
   "description": "Shapefly plugin for inserting ready-make shapes on your web, such as rectangles and circles, arrows,, lines, flowchart symbols, and callouts.",
   "main": [
     "dist/shapefly-plugin.min.js",
-    "dist/shapefly-plugin.min.html",	
+    "dist/shapefly-plugin.min.html"
   ],
   "keywords": [
     "flowchart",
